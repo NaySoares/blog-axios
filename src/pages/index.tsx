@@ -15,12 +15,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <HomePage />
-        <section className="bg-red-500">
-          <h1 className="text-5xl font-extrabold text-white p-5">
-            section for test
-          </h1>
-        </section>
+          <HomePage />
+          <section className="bg-red-500">
+            <h1 className="text-5xl font-extrabold text-white p-5">
+              section for test
+            </h1>
+          </section>
       </main>
     </>
   );

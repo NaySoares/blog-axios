@@ -2,7 +2,7 @@ export const Navbar = () => {
   return (
     <div className="mx-auto w-full">
       <nav
-        className="flex mx-auto items-center justify-between p-6 lg:px-8 bg-bg-default border-b-2 border-theme-divider 2xl:border-none"
+        className="flex mx-auto items-center justify-between p-6 lg:px-8 bg-bg-default opacity-80 border-b-2 border-theme-divider 2xl:border-none"
         aria-label="Global"
       >
         <div className="flex lg:flex-1 items-align">
